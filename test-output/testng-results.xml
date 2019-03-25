@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[test1]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64" started-at="2019-03-25T10:44:39Z" finished-at="2019-03-25T10:44:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64" started-at="2019-03-25T10:44:39Z" finished-at="2019-03-25T10:44:39Z">
+      <class name="jenkins.Demo1">
+        <test-method status="PASS" signature="test()[pri:0, instance:jenkins.Demo1@2fc14f68]" name="test" duration-ms="12" started-at="2019-03-25T10:44:39Z" finished-at="2019-03-25T10:44:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- jenkins.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
